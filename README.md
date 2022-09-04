@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in web-development, UI/UX design
+- 👀 I’m interested in web-development, UI/UX design and other visual stuff
 - 🌱 I’m currently learning node.js
 
 <!---
